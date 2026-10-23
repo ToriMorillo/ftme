@@ -1,7 +1,9 @@
 {
+    "id": "./",
     "name": "ftMe",
     "short_name": "ftMe",
     "start_url": ".",
+    "scope": "./",
     "display": "standalone",
     "background_color": "#E6E0D6",
     "theme_color": "#E6E0D6",
